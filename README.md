@@ -56,7 +56,3 @@ Julian Camilo Avilez Caviedes
 # Link para ver los resultados en imagenes 
 
 https://docs.google.com/document/d/1RSJxmoJcPLr91JuW-Q37ooMz8VZ2-55gubB3zySDVn8/edit?usp=sharing
-
-# Link para ver los resultados en imagenes 
-
-https://docs.google.com/document/d/1RSJxmoJcPLr91JuW-Q37ooMz8VZ2-55gubB3zySDVn8/edit?usp=sharing
